@@ -89,3 +89,4 @@ ios/Flutter/engine/
 
 # Coverage
 coverage/
+lib/firebase_options.dart
